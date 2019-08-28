@@ -11,5 +11,5 @@ if (isset($_POST['Input'])) {
     echo "<br/>";
 }
 }
-    echo "Jumlah Bintang : $bintang";
+    echo "Jumlah Bintang : $bintang";   
 ?>
